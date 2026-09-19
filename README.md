@@ -15,7 +15,7 @@
 ![get](screenshots/get.png)
 
 ### метод getById:
-![getById](screenshots/getId.png)
+![getId](screenshots/gitId.png)
 
 ### метод put:
 ![put](screenshots/put.png)
